@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently learning Django
 - 💞️ I am interested in learning new technological things and develop them. 
-- 📫 Reach me on twitter @sowji_2222
+- 📫 Reach me on twitter @sowjanya_25
 
 <!---
 sowjanyagarapati/sowjanyagarapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
