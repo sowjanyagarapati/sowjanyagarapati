@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sowjanyagarapati
 - 👀 I’m interested in coding and development
-- 🌱 I’m currently learning Django
+- 🌱 Learning and growing to acheive my dreams.
 - 💞️ I am interested in learning new technological things and develop them. 
-- 📫 Reach me on twitter @sowjanya_25
+- 📫 Reach me on twitter @sowjanya_25 or instagram @hello.techie
 
 <!---
 sowjanyagarapati/sowjanyagarapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
