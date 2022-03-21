@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sowjanyagarapati
 - 👀 I’m interested in coding and development
 - 🌱 Learning and growing to acheive my dreams.
-- 💞️ I am interested in learning new technological things and develop them. 
+- 💞️ I love to check new tech trends 
 - 📫 Reach me on twitter @sowjanya_25 or instagram @hello.techie
 
 <!---
