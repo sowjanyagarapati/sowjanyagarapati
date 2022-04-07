@@ -3,6 +3,7 @@
 - 🌱 Learning and growing to acheive my dreams.
 - 💞️ I love to check new tech trends 
 - 📫 Reach me on twitter @sowjanya_25 or instagram @hello.techie
+- All my repositories will be updated eventually whenever there is an incompleteness or inefficiency in the code :)
 
 
 
