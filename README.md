@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sowjanya, Software developer.<br>👀 I’m interested in developing applications with Python and Django<br>🤓 I do web Development for fun.<br>🌱 Long term goal - Full Stack Web Developer.<br>💞️ I love Blogging/Freelancing<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
+👋 Hi, I’m Sowjanya, Software developer.<br>👀 I’m interested in developing Developing Applications<br>🤩On the road of learnig Web Development<br>🎯Long term goal - Full Stack Web Developer.<br>💞️ I love Blogging/Freelancing<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
 
 
 ## 🌐 Socials:
