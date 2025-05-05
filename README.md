@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sowjanya, Software developer.<br>👀 I Love developing Applications<br>🤩On the road of learning Web Development<br>🎯Long term goal - Full Stack Web Developer.<br>💞️ I love Blogging/Freelancing<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
+👋 Hi, I’m Sowjanya, Software Engineer.<br>👀 I Love developing Applications<br>🤩On the road of learning Web Development<br>🎯Long term goal - Full Stack Web Developer.<br>💞️ I love Blogging/Freelancing<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
 
 
 ## 🌐 Socials:
