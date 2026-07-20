@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Sowjanya, Software Engineer.<br>👀 I Love developing Applications<br>🤩On the road of learning Web Development<br>🎯Long term goal - Full Stack Web Developer.<br>💞️ I love Blogging/Freelancing<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
+👋 Hi, I’m Sowjanya, Software Engineer.<br>👀 I Love developing Applications<br>💞️ I love Blogging/Freelancing and mentoring.<br><br>Support me by starring my repositories that you feel helpful. <br>You can contact me on my social for any suggestions/queries/work.<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello.techie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshmi-sowjanya-garapati) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakshmisowjanya.garapati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hello_techie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCaR4r8FwrUoYCqnY2ae9GIg) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hello.techie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshmi-sowjanya-garapati) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakshmisowjanya.garapati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hello_techie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCaR4r8FwrUoYCqnY2ae9GIg) [![Topmate](https://img.shields.io/badge/Topmate-%23FF0000.svg?logo=Topmate&logoColor=white)](https://topmate.io/lakshmi_sowjanya_garapati)
 
 ## 📝 My Blogs:
 [![Hashnode]](https://lakshmisowjanya.hashnode.dev/) 
