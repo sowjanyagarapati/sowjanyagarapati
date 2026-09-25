@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a senior software engineer with 6+ years of experience in backend development along with Full stack. I work with Python, React .js, vue .js, fastapi, AWS. I am currently brushing up on my full stack skills by building side projects and also to integrate AI Agents into workflows.
 
-check my Portfolio [here](https://sowjanyagarapati.github.io/)
+find more about me in detail [here](https://sowjanyagarapati.github.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hello.techie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/lakshmi-sowjanya-garapati) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@lakshmisowjanya.garapati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/hello_techie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/c/UCaR4r8FwrUoYCqnY2ae9GIg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshmisowjanya.garapati@gmail.com) 
@@ -16,13 +16,8 @@ check my Portfolio [here](https://sowjanyagarapati.github.io/)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sowjanyagarapati&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sowjanyagarapati&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=sowjanyagarapati&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## If you like my work or if it helped you a bit, you can show your token of appreciation by buying me a coffee😋
+  ### If you like my work or if it helped you a bit, you can show your token of appreciation by buying me a coffee😋
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sowjanyagarapati) 
 
   
